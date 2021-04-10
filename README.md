@@ -25,7 +25,7 @@
   - Podmínky
   - Cykly
   - Komentáře, dokumentace
-  - Výčtový typ ('''enum''')
+  - Výčtový typ (```enum```)
 
 ---
 
