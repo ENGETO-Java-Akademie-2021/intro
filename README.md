@@ -10,7 +10,7 @@
 </p>-->
 <br>
 
-[O&nbsp;Java Akademii](https://github.com/ENGETO-Java-Akademie-2021/intro/o-akademii.md)
+### [O&nbsp;Java Akademii](https://github.com/ENGETO-Java-Akademie-2021/intro/o-akademii.md)
 - Představení kurzu
 - Představení lektorů
 - Jak studovat
@@ -35,7 +35,7 @@
 ---
 
 ## 🦅 Psát kód nestačí
-### 4. [Git, GitHub  (6.5.2021)](https://github.com/ENGETO-Java-Akademie-2021/lekce_04) <img alt="git-logo" width="20px" src="https://image.freepik.com/free-icon/github-cat-in-a-circle_318-41747.jpg" />
+### 4. [Git, GitHub (6.5.2021)](https://github.com/ENGETO-Java-Akademie-2021/lekce_04) <img alt="git-logo" width="20px" src="https://image.freepik.com/free-icon/github-cat-in-a-circle_318-41747.jpg" />
 - Systémy pro správu verzí, Git
 - GitHub
 - větve (branch), strategie zařazení do main
