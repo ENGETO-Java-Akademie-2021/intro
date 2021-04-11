@@ -21,21 +21,27 @@ Na tomto kurzu se vám budou věnovat tři lektoři. Prvními šesti lekcemi vá
 <p align="left">
  <img src="mareknedbal.jpg" height="360">
 </p>
+
 - Živím se jako software engineer a krom krátkého extempore na začátku mé programátorské kariéry programuji již šestým rokem právě v Javě - momentálně pro společnost, o které v rámci Java kurzu ještě nekolikrát uslyšíte - <b>Oracle</b>
+
 - Učení je mým koníčkem, který jsem objevil před rokem a máloco mě potěší tak, jako radost studenta, když ho drobnými radami doštouchám k tomu, aby si na řešení problému, na kterém se zasekl, přišel skoro sám
 
 ### Lukáš Horák
 <p align="left">
   <img src="lukashorak.jpg" height="360">
 </p>
+
 - V&nbsp;současné době pracuji jako consultant ve společnosti Adastra, ale s&nbsp;programováním jsem začal již před dlouhou dobou na základní škole. Měl jsem šteští, že díky práci jsem mohl pracovat v různých kulturách a setkat se s množštvím zajímavých lidí, od kterých jsem se sám mohl hodně naučit. Nyní je idealní příležitost znalosti předat dalším lidem a idealně nadchnout nové studenty.
 
 ### Martin Šimůnek
 <p align="left">
  <img src="martinsimunek.jpg" height="360">
 </p>
+
 - Vystudoval jsem softwarové inženýrství na FEL ČVUT v&nbsp;Praze, ale také bakalářský obor učitelství odborných předmětů. 
+
 - Od roku 2006 působím jako středoškolský učitel a&nbsp;učím žáky zvládat programování, operační systémy, sítě a&nbsp;další IT předměty na oboru Informační technologie v&nbsp;rámci Obchodní akademie Uherské Hradiště.
+
 - Budu se vám věnovat v&nbsp;prvních 6&nbsp;lekcích a&nbsp;mým úkolem bude provést vás úplnými začátky.
 
 ---
