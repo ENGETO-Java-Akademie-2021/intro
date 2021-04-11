@@ -10,35 +10,43 @@
 </p>-->
 <br>
 
+[O&nbsp;Java Akademii](https://github.com/ENGETO-Java-Akademie-2021/intro/o-akademii.md)
+- Představení kurzu
+- Představení lektorů
+- Jak studovat
+
 ---
 
 ## 🐌 Úvod do programování v Javě
-### 1. [Úvod](https://github.com/ENGETO-Java-Akademie-2021/lekce_01)
-  - Jazyk Java
-  - První program
-  - Datové typy
-### 2. [Popis dat](https://github.com/ENGETO-Java-Akademie-2021/lekce_02)
-  - Objekty, třídy
-  - Metody, modifikátory
-  - Kolekce
-### 3. [Zápis algoritmu: podmínky, cykly, výčtový typ](https://github.com/ENGETO-Java-Akademie-2021/lekce_03)
-  - Podmínky
-  - Cykly
-  - Komentáře, dokumentace
-  - Výčtový typ (```enum```)
+### 1. [Úvod (15.4.2021)](https://github.com/ENGETO-Java-Akademie-2021/lekce_01)
+- Jazyk Java
+- První program
+- Datové typy
+### 2. [Popis dat (22.4.2021)](https://github.com/ENGETO-Java-Akademie-2021/lekce_02)
+- Objekty, třídy
+- Metody, modifikátory
+- Kolekce
+### 3. [Zápis algoritmu: podmínky, cykly, výčtový typ (29.4.2021)](https://github.com/ENGETO-Java-Akademie-2021/lekce_03)
+- Podmínky
+- Cykly
+- Komentáře, dokumentace
+- Výčtový typ (`enum`)
 
 ---
 
 ## 🦅 Psát kód nestačí
-### 4. [Git, GitHub](https://github.com/ENGETO-Java-Akademie-2021/lekce_04) <img alt="git-logo" width="20px" src="https://image.freepik.com/free-icon/github-cat-in-a-circle_318-41747.jpg" />
-  - Systémy pro správu verzí, Git
-  - GitHub
-  - větve (branch), strategie zařazení do main
-### 5. [Soubory, výjimky](https://github.com/ENGETO-Java-Akademie-2021/lekce_05)
-  - Výjimky a ošetření chyb
-  - Práce se soubory
-  - Parsování textového souboru
-### 6. [Kolekce, pole](https://github.com/ENGETO-Java-Akademie-2021/lekce_06)
+### 4. [Git, GitHub  (6.5.2021)](https://github.com/ENGETO-Java-Akademie-2021/lekce_04) <img alt="git-logo" width="20px" src="https://image.freepik.com/free-icon/github-cat-in-a-circle_318-41747.jpg" />
+- Systémy pro správu verzí, Git
+- GitHub
+- větve (branch), strategie zařazení do main
+### 5. [Soubory, výjimky (13.5.2021)](https://github.com/ENGETO-Java-Akademie-2021/lekce_05)
+- Výjimky a ošetření chyb
+- Práce se soubory
+- Parsování textového souboru
+### 6. [Kolekce, pole (20.5.2021)](https://github.com/ENGETO-Java-Akademie-2021/lekce_06)
+- Operace nad kolekcemi
+- Pole
+- Zadání prvního projektu
 
 ---
 
@@ -48,15 +56,15 @@
 
 ## 🔥 Pojďme dál
 
-### 7. [Automatizace překladu](https://github.com/ENGETO-Java-Akademie-2021/lekce_07)
+### 7. [Automatizace překladu (27.5.2021)](https://github.com/ENGETO-Java-Akademie-2021/lekce_07)
   - IDE pro Git + opakování operací
   - Maven
   - Automatizace testování
-### 8. [OOP podrobněji](https://github.com/ENGETO-Java-Akademie-2021/lekce_08)
+### 8. [OOP podrobněji (3.6.2021)](https://github.com/ENGETO-Java-Akademie-2021/lekce_08)
   - Zapouzdření, balíčky, final
   - Konstruktory, třídní atributy a metody (```static```)
   - Dědičnost, rozhraní
-### 9. [Časová složitost, mapy, vlákna](https://github.com/ENGETO-Java-Akademie-2021/lekce_09)
+### 9. [Časová složitost, mapy, vlákna (13.6.2021)](https://github.com/ENGETO-Java-Akademie-2021/lekce_09)
   - Časová složitost algoritmů
   - Mapy a další typy kolekcí
   - Práce s vlákny (thread)
@@ -65,16 +73,16 @@
 
 ## ⚒ Databáze a API
 
-### 10. [Úvod do databází, čistý kód](https://github.com/ENGETO-Java-Akademie-2021/lekce_10)
+### 10. [Úvod do databází, čistý kód (20.6.2021)](https://github.com/ENGETO-Java-Akademie-2021/lekce_10)
   - Úvod do databází
   - Čistý kód, refaktoring
   - Debugging
   - Ukázka &mdash; Jira
-### 11. [Databáze v Javě](https://github.com/ENGETO-Java-Akademie-2021/lekce_11)
+### 11. [Databáze v Javě (27.6.2021)](https://github.com/ENGETO-Java-Akademie-2021/lekce_11)
   - Práce s existující databází v&nbsp;Javě
   - Konstruktory, třídní atributy a metody (```static```)
   - Dědičnost, rozhraní
-### 12. [API](https://github.com/ENGETO-Java-Akademie-2021/lekce_12)
+### 12. [API (3.7.2021)](https://github.com/ENGETO-Java-Akademie-2021/lekce_12)
   - Co je API?
   - Ukázka projektu s API
   - Zadání projektu
