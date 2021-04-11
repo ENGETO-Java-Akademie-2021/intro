@@ -2,7 +2,7 @@
   <img src="https://engeto.cz/wp-content/uploads/2019/01/engeto-square.png" width="200" height="200">
 </p>
 
-# O&Java Akademii
+# O&nbsp;Java Akademii
 
 
 ## Představení kurzu
@@ -18,21 +18,19 @@ Během dvanácti tříhodinových lekcí si postupně od úplných základů pro
 Na tomto kurzu se vám budou věnovat tři lektoři. Prvními šesti lekcemi vás provede [Martin](#Martin Šimůnek), ve zbytku lekcí se budou střídat [Marek](#marek-nedbal) a&nbsp;[Lukáš](#lukas-horak). Na Slacku nás najdete všechny tři.
 
 ### Marek Nedbal
-
 <p align="left">
- <img src="https://github.com/ENGETO-Java-Akademie/lekce_01/blob/main/engeto_profile.jpg" height="400">
+ <img src="mareknedbal.jpg" height="360">
 </p>
-- živím se jako software engineer a krom krátkého extempore na začátku mé programátorské kariéry programuji již šestým rokem právě v Javě - momentálně pro společnost, o které v rámci Java kurzu ještě nekolikrát uslyšíte - <b>Oracle</b>
-- učení je mým koníčkem, který jsem objevil před rokem a máloco mě potěší tak, jako radost studenta, když ho drobnými radami doštouchám k tomu, aby si na řešení problému, na kterém se zasekl, přišel skoro sám
+- Živím se jako software engineer a krom krátkého extempore na začátku mé programátorské kariéry programuji již šestým rokem právě v Javě - momentálně pro společnost, o které v rámci Java kurzu ještě nekolikrát uslyšíte - <b>Oracle</b>
+- Učení je mým koníčkem, který jsem objevil před rokem a máloco mě potěší tak, jako radost studenta, když ho drobnými radami doštouchám k tomu, aby si na řešení problému, na kterém se zasekl, přišel skoro sám
 
 ### Lukáš Horák
 <p align="left">
-  <img src="https://github.com/ENGETO-Java-Akademie/lekce_01/blob/main/lukashorak.png" height="360">
+  <img src="lukashorak.jpg" height="360">
 </p>
 - V&nbsp;současné době pracuji jako consultant ve společnosti Adastra, ale s&nbsp;programováním jsem začal již před dlouhou dobou na základní škole. Měl jsem šteští, že díky práci jsem mohl pracovat v různých kulturách a setkat se s množštvím zajímavých lidí, od kterých jsem se sám mohl hodně naučit. Nyní je idealní příležitost znalosti předat dalším lidem a idealně nadchnout nové studenty.
 
 ### Martin Šimůnek
-
 <p align="left">
  <img src="martinsimunek.jpg" height="360">
 </p>
