@@ -10,7 +10,7 @@
 </p>-->
 <br>
 
-### [O&nbsp;Java Akademii](https://github.com/ENGETO-Java-Akademie-2021/intro/o-akademii.md)
+### [O&nbsp;Java Akademii](o-akademii.md)
 - Představení kurzu
 - Představení lektorů
 - Jak studovat
