@@ -43,7 +43,6 @@
 - GitHub
 - větve (branch), strategie zařazení do main
 - Git a&nbsp;práce v týmu
-- IDE pro Git
 ### 5. [Soubory, výjimky (13.5.2021)](https://github.com/ENGETO-Java-Akademie-2021/lekce_05)
 - Výjimky a ošetření chyb
 - Práce se soubory
