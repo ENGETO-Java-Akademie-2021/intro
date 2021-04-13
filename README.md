@@ -25,11 +25,11 @@
 - Jazyk Java
 - První program
 - Datové typy
-### 2. [Popis dat (22.4.2021)](https://github.com/ENGETO-Java-Akademie-2021/lekce_02)
+### 2. [Popis dat (22.4.2021)]https://github.com/ENGETO-Java-Akademie-2021/content/tree/main/lekce_02)
 - Objekty, třídy
 - Metody, modifikátory
 - Kolekce
-### 3. [Zápis algoritmu: podmínky, cykly, výčtový typ (29.4.2021)](https://github.com/ENGETO-Java-Akademie-2021/lekce_03)
+### 3. [Zápis algoritmu: podmínky, cykly, výčtový typ (29.4.2021)](https://github.com/ENGETO-Java-Akademie-2021/content/tree/main/lekce_03)
 - Podmínky
 - Cykly
 - Komentáře, dokumentace
@@ -38,37 +38,37 @@
 ---
 
 ## 🦅 Psát kód nestačí
-### 4. [Git, GitHub (6.5.2021)](https://github.com/ENGETO-Java-Akademie-2021/lekce_04) <img alt="git-logo" width="20px" src="https://image.freepik.com/free-icon/github-cat-in-a-circle_318-41747.jpg" />
+### 4. [Git, GitHub (6.5.2021)](https://github.com/ENGETO-Java-Akademie-2021/content/tree/main/lekce_04) <img alt="git-logo" width="20px" src="https://image.freepik.com/free-icon/github-cat-in-a-circle_318-41747.jpg" />
 - Systémy pro správu verzí, Git
 - GitHub
 - větve (branch), strategie zařazení do main
 - Git a&nbsp;práce v týmu
-### 5. [Soubory, výjimky (13.5.2021)](https://github.com/ENGETO-Java-Akademie-2021/lekce_05)
+### 5. [Soubory, výjimky (13.5.2021)](https://github.com/ENGETO-Java-Akademie-2021/content/tree/main/lekce_05)
 - Výjimky a ošetření chyb
 - Práce se soubory
 - Parsování textového souboru
-### 6. [Kolekce, pole (20.5.2021)](https://github.com/ENGETO-Java-Akademie-2021/lekce_06)
+### 6. [Kolekce, pole (20.5.2021)](https://github.com/ENGETO-Java-Akademie-2021/content/tree/main/lekce_06)
 - Operace nad kolekcemi
 - Pole
 - Zadání prvního projektu
 
 ---
 
-### [První projekt](https://github.com/ENGETO-Java-Akademie-2021/projekt_01)
+### [První projekt](https://github.com/ENGETO-Java-Akademie-2021/content/tree/main/projekt_01)
 
 ---
 
 ## 🔥 Pojďme dál
 
-### 7. [Automatizace překladu (27.5.2021)](https://github.com/ENGETO-Java-Akademie-2021/lekce_07)
+### 7. [Automatizace překladu (27.5.2021)](https://github.com/ENGETO-Java-Akademie-2021/content/tree/main/lekce_07)
   - IDE pro Git + opakování operací
   - Maven
   - Automatizace testování
-### 8. [OOP podrobněji (3.6.2021)](https://github.com/ENGETO-Java-Akademie-2021/lekce_08)
+### 8. [OOP podrobněji (3.6.2021)](https://github.com/ENGETO-Java-Akademie-2021/content/tree/main/lekce_08)
   - Zapouzdření, balíčky, final
   - Konstruktory, třídní atributy a metody (```static```)
   - Dědičnost, rozhraní
-### 9. [Časová složitost, mapy, vlákna (13.6.2021)](https://github.com/ENGETO-Java-Akademie-2021/lekce_09)
+### 9. [Časová složitost, mapy, vlákna (13.6.2021)](https://github.com/ENGETO-Java-Akademie-2021/content/tree/main/lekce_09)
   - Časová složitost algoritmů
   - Mapy a další typy kolekcí
   - Práce s vlákny (thread)
@@ -77,16 +77,16 @@
 
 ## ⚒ Databáze a API
 
-### 10. [Úvod do databází, čistý kód (20.6.2021)](https://github.com/ENGETO-Java-Akademie-2021/lekce_10)
+### 10. [Úvod do databází, čistý kód (20.6.2021)](https://github.com/ENGETO-Java-Akademie-2021/content/tree/main/lekce_10)
   - Úvod do databází
   - Čistý kód, refaktoring
   - Debugging
   - Ukázka &mdash; Jira
-### 11. [Databáze v Javě (27.6.2021)](https://github.com/ENGETO-Java-Akademie-2021/lekce_11)
+### 11. [Databáze v Javě (27.6.2021)](https://github.com/ENGETO-Java-Akademie-2021/content/tree/main/lekce_11)
   - Práce s existující databází v&nbsp;Javě
   - Konstruktory, třídní atributy a metody (```static```)
   - Dědičnost, rozhraní
-### 12. [API (3.7.2021)](https://github.com/ENGETO-Java-Akademie-2021/lekce_12)
+### 12. [API (3.7.2021)](https://github.com/ENGETO-Java-Akademie-2021/content/tree/main/lekce_12)
   - Co je API?
   - Ukázka projektu s API
   - Zadání projektu
@@ -94,7 +94,7 @@
 ---
 
 
-### [Druhý projekt](https://github.com/ENGETO-Java-Akademie-2021/projekt_02)
+### [Druhý projekt](https://github.com/ENGETO-Java-Akademie-2021/content/tree/main/projekt_02)
 
 ---
 
@@ -156,5 +156,5 @@
 
 </details>
 
--->
 ---
+-->
