@@ -25,7 +25,7 @@
 - Jazyk Java
 - První program
 - Datové typy
-### 2. [Popis dat (22.4.2021)]https://github.com/ENGETO-Java-Akademie-2021/content/tree/main/lekce_02)
+### 2. [Popis dat (22.4.2021)](https://github.com/ENGETO-Java-Akademie-2021/content/tree/main/lekce_02)
 - Objekty, třídy
 - Metody, modifikátory
 - Kolekce
