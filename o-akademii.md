@@ -7,9 +7,21 @@
 
 ## Představení kurzu
 
-Vítáme Tě v&nbsp;Engeto Java Akademii. Chceme Ti pomoci posunout se ve své programátorské kariéře z&nbsp;úplného začátečníka na úroveň někoho, kdo by si mohl troufnout na pozici juniorního programátora. Nebude to ale zadarmo &mdash; určitě totiž nebude stačit si odsedět samotnou lekci, ale budeš si muset opakovat a procvičovat probranou látku a pracovat na projektech.
+Cíl kurzu:
 
-Během dvanácti tříhodinových lekcí si postupně od úplných základů projdeme tvorbu programů v Javě, kde si vše zároveň ukážeme i na příkladech, seznámíme se nástroji, které se při vývoji aplikací bežně používají, projdeme si spolu celý vývojový cyklus aplikace, ukážeme si, jak se testuje a všechny tyto nově nabité znalosti nakonec dostanete šanci uvést do praxe, když si na společném projektu vyzkoušíte, jak se vám podařilo učivo zvládnout.
+> Posunout se ve své programátorské kariéře z&nbsp;úplného začátečníka na úroveň někoho, kdo by si mohl troufnout na pozici juniorního programátora. 
+
+Nebude to ale zadarmo &mdash; určitě totiž nebude stačit si odsedět samotnou lekci, ale budeš si muset:
+
+- opakovat a procvičovat probranou látku,
+
+- pracovat na projektech,
+
+- **ptát se, když ti něco nepůjde** 
+
+> Čtvrt hodiny tomu věnuj sám. Když to stále nejde, zeptej se!
+
+Během dvanácti tříhodinových lekcí si postupně od úplných základů projdeme tvorbu programů v Javě, kde si vše zároveň ukážeme i na příkladech, seznámíme se nástroji, které se při vývoji aplikací bežně používají, projdeme si spolu celý vývojový cyklus aplikace, ukážeme si, jak se testuje a všechny tyto nově nabyté znalosti nakonec dostanete šanci uvést do praxe, když si na společném projektu vyzkoušíte, jak se vám podařilo učivo zvládnout.
 
 ---
 
@@ -43,6 +55,17 @@ Na tomto kurzu se vám budou věnovat tři lektoři. Prvními šesti lekcemi vá
 - Od roku 2006 působím jako středoškolský učitel a&nbsp;učím žáky zvládat programování, operační systémy, sítě a&nbsp;další IT předměty na oboru Informační technologie v&nbsp;rámci Obchodní akademie Uherské Hradiště.
 
 - Budu se vám věnovat v&nbsp;prvních 6&nbsp;lekcích a&nbsp;mým úkolem bude provést vás úplnými začátky.
+
+---
+
+## Struktura lekce
+
+Návrh:
+
+1. tři části cca pro 50&nbsp;minutách
+2. mezi nimi vždy cca 10&nbsp;minut pauza
+
+Souhlasíte? ;)
 
 ---
 
