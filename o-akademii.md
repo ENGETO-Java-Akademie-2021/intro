@@ -69,12 +69,22 @@ Souhlasíte? ;)
 
 ---
 
+## Jak klást dotazy
+
+- **Zapni si mikrofon a&nbsp;prostě se zeptej ;)**
+
+- Zvedni ruku pomocí ikonky
+
+- Napiš zprávu do Slacku
+
+---
+
 ## Jak se učit
 Je samozřejmě jen na vás, jak s&nbsp;Java Akademií naložíte. Jste naši zákazníci!
 
 Abychom společně dosáhli nejlepších výsledků, navrhujeme vám následující „pravidla“:
 1. Ptejte se hned, jak narazíte na problém!
-	- Není důležité, jak „hloupý“ vám váš problém připadá. Neexistují hloupé dotazy. Pokud vám něco není jasné, je váš dotaz vždycky na místě!
+	- Není důležité, jak „hloupý“ ti tvůj problém připadá. Neexistují hloupé dotazy. Pokud ti něco není jasné, je dotaz vždycky na místě!
 2. Sledování je zábavné, učíte se ale psaním!
 	- Víme, že je příjemné si sednout a&nbsp;sledovat, jak to lektorovi krásně jde (nebo třeba někdy nejde).
 	- Pokud to ale s&nbsp;učením myslíte vážně, musíte si věci zkoušet sami!

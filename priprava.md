@@ -21,13 +21,13 @@ Jděte na stránku: https://www.oracle.com/java/technologies/javase-jdk11-downlo
 
 - v případě, že máte Ubuntu, případně jinou Linuxovou distribuci založenou na Debianu, zvolte: <b>Linux Debian Package</b> a pokračujte kroky popsanými v části [<b>Instalace JDK v Debian-based distribuci</b>](#instalace-jdk-v-debian-based-distribuci)
 
-#### Instalace JDK ve Windows
+### Instalace JDK ve Windows
 
 - ve stažených souborech kliknete pravým tlačítkem na stažený instalační balíček a zvolíte spustit jako administrátor
 
 - v instalačním okně pak zbývá zmáčknout třikrát tlačítko <b>Next</b>, čímž nejrve potvrdíte, co instalujete, následně budete mít možnost zvolit dodatečné části k naistalování - tady chcete nechat defaultní nastavení a můžete tedy pokračovat zase stiskem tlačítka <b>Next</b>, nakonec máte možnost zvolit, do jaké složky se bude instalovat - zde opět není potřeba nic měnit a můžete opět pokračovat stiskem tlačítka <b>Next</b>, tím se začne instalovat a po dokončení už stačí jen zavřít okno tlačítkem <b>Close</b>
 
-#### Instalace JDK v MAC OS
+### Instalace JDK v MAC OS
  
  - v <b>Downloads</b>, případně ve prohlížeči souborů dvakrát klikněte na stažený instalační balíček s koncovkou <i>.dmg</i> - zobrazí se Vám okno <b>Finder</b> a v něm soubor s koncovkou <i>.pkg</i>
  
@@ -39,13 +39,13 @@ Jděte na stránku: https://www.oracle.com/java/technologies/javase-jdk11-downlo
  
  - zadejte administrátorské jméno a heslo a klikněte na tlačítko <b>Install Software</b>, nyní už zbývá jen počkat a následně odkliknout potvrzovaní okno o úspěšné instalaci
 
-#### Instalace JDK v Red Hat-based distribuci
+### Instalace JDK v Red Hat-based distribuci
 
 - v konzoli se přepněte do adresáře, do kterého chcete JDK nainstalovat a následně tam přesuňte stažený instalační soubor s koncovkou <i>.tar.gz</i>
 
 - samotnou instalaci pak provedete příkazem <i>tar zxvf jmeno_stazeneho_instalacniho_balicku.tar.gz</i>
 
-#### Instalace JDK v Debian-based distribuci
+### Instalace JDK v Debian-based distribuci
 
 - ujistěte se, že jste přihlášeni jako root - v konzoli zadejte příkaz <i>su</i> a následně zadejte heslo superusera
 
@@ -61,24 +61,38 @@ Jděte na stránku: https://www.jetbrains.com/idea/download/
 
 Zde si podle vašeho operačního systému (Windows/MAC OS/Linux) zvolte správnou verzi a stáhněte si edici nazvanou <b>Community</b> a pokračujte pomocí níže uvedeného návodu pro váš operační systém
 
-#### Instalace IntelliJ IDEA ve Windows
+### Instalace IntelliJ IDEA ve Windows
 
 - dvouklikem klikněte na stažený instalační soubor s koncovkou <i>.exe</i> - otevře se Vám okno, které Vás provede instalací
 
 - základní nastavení nepotřebujeme měnit, takže nyní stačí 4* stiknout tlačítko <b>Next</b> a v okně s nápisem "Completing IntelliJ IDEA setup" informujícím o úspěšně dokončené instalaci odvyberte možnost "Run IntelliJ IDEA" a kliněte na <b>Finish</b>
 
-#### Instalace IntelliJ IDEA v MAC OS
+### Instalace IntelliJ IDEA v MAC OS
 
 -  otevřete si instalační soubor s koncovkou <i>.dmg</i>, který jste si stáhli a přesuňte v okně, které se Vám otevře, IntelliJ IDEA do složky "Applications"
 
-#### Instalace IntelliJ IDEA v Lunuxu
+### Instalace IntelliJ IDEA v&nbsp;Linuxu
 
-- 
+- Stáhneme si instalační balíček ze stránek: https://www.jetbrains.com/idea/download/
+
+- Zvolíme verzi Community Edition pro Linux.
+
+- Rozbal stažený soubor a&nbsp;spusť soubor `idea.sh` z&nbsp;adresáře `bin`.
+
+- Po spuštění nastav JDK: Klikneme na _Configure... → Structure for New Projects_ a&nbsp;vybereme ze seznamu _Detected SDKs → /usr/java/latest_.
+
+## Podrobnější návod
+
+Podrobnější návod najdeš [v&nbsp;kurzu Java#1](https://engeto.com/cs/kurz/java-1-uvod-do-programovani/studium/m_TDBn4hQyyJ7Hp2uFS5Sw/zaciname-s-javou/priprava-prostredi/stazeni-oracle-jdk).
+
+---
 
 ## GitHub
 
 Zde nám zatím stačí si vytvořit účet.
 
-Jděte na stránku: https://github.com/
+- Jděte na stránku: https://github.com/
 
-Zde vyplňte uživatelské jméno, email a heslo a klikněte na tlačítko <b>Sign up for GitHub</b>
+- Zde vyplňte uživatelské jméno, email a heslo a klikněte na tlačítko <b>Sign up for GitHub</b>
+
+- Vytvořené uživatelské jméno pošli lektorovi přes Slack. Zpřístupní ti obsah dalších lekcí.
