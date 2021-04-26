@@ -95,3 +95,9 @@ Abychom společně dosáhli nejlepších výsledků, navrhujeme vám následují
 	- Jsme tady pro vás. Nebojte se říci si, co byste chtěli nebo co by vám pomohlo.
 	- Věnovali jsme přípravě hodně času, ale neznáme vás a&nbsp;vaše potřeby tak, jako se znáte vy. Když nám dáte vědět, budeme se snažit akademii přizpůsobit vašim potřebám a&nbsp;vašemu tempu. 
 	- Navíc nám tím pomůžete lépe pochopit, co účastníci akademie potřebují!
+
+---
+
+## Zdroje
+ - [Stránka Java akademie na learn.engeto.com](https://learn.engeto.com/)
+ - [On-line kurz Java#1](https://learn.engeto.com/cs/kurz/java-1-uvod-do-programovani/lekce)
