@@ -1,5 +1,5 @@
 
-# Vítejte v kurzu [Engeto, Java Academy 2021](https://engeto.cz/java-akademie/) 👋
+# Vítejte v kurzu Engeto, Java Academy 2021 👋
 
 <p align="center">
   <img src="https://engeto.cz/wp-content/uploads/2019/01/engeto-square.png" width="200" height="200">
@@ -14,6 +14,7 @@
 - Představení kurzu
 - Představení lektorů
 - Jak studovat
+- Zdroje
 
 ### [Příprava](priprava.md)
 - Co a jak si nainstalovat?
