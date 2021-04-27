@@ -19,6 +19,10 @@
 ### [Příprava](priprava.md)
 - Co a jak si nainstalovat?
 
+### Další materiály
+- [Řešení úkolů](https://github.com/ENGETO-Java-Akademie-2021/reseni-ukolu)
+- [Kód z hodin](https://github.com/ENGETO-Java-Akademie-2021/kod-z-hodin)
+
 ---
 
 ## 🐌 Úvod do programování v Javě
