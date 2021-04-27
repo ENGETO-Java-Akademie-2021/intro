@@ -31,7 +31,7 @@ Na tomto kurzu se vám budou věnovat tři lektoři. Prvními šesti lekcemi vá
 
 ### Marek Nedbal
 <p align="left">
- <img src="mareknedbal.jpg" height="360">
+ <img src="img/mareknedbal.jpg" height="360">
 </p>
 
 - Živím se jako software engineer a krom krátkého extempore na začátku mé programátorské kariéry programuji již šestým rokem právě v Javě - momentálně pro společnost, o které v rámci Java kurzu ještě nekolikrát uslyšíte - <b>Oracle</b>
@@ -40,14 +40,14 @@ Na tomto kurzu se vám budou věnovat tři lektoři. Prvními šesti lekcemi vá
 
 ### Lukáš Horák
 <p align="left">
-  <img src="lukashorak.jpg" height="360">
+  <img src="img/lukashorak.jpg" height="360">
 </p>
 
 - V&nbsp;současné době pracuji jako consultant ve společnosti Adastra, ale s&nbsp;programováním jsem začal již před dlouhou dobou na základní škole. Měl jsem šteští, že díky práci jsem mohl pracovat v různých kulturách a setkat se s množštvím zajímavých lidí, od kterých jsem se sám mohl hodně naučit. Nyní je idealní příležitost znalosti předat dalším lidem a idealně nadchnout nové studenty.
 
 ### Martin Šimůnek
 <p align="left">
- <img src="martinsimunek.jpg" height="360">
+ <img src="img/martinsimunek.jpg" height="360">
 </p>
 
 - Vystudoval jsem softwarové inženýrství na FEL ČVUT v&nbsp;Praze, ale také bakalářský obor učitelství odborných předmětů. 
